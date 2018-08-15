@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.11.2
-MAINTAINER shayu
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.9.2
+MAINTAINER bb
